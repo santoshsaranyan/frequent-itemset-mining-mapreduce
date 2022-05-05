@@ -3,10 +3,24 @@
 
 Spring 2022
 
+Description
+-----------
+This project focuses on creating a parallel version of the Apriori algorithm for frequent itemset mining, and uses this algorithm to analyze H&M transaction data to find items frequently bought together.
+
+• Developed in MapReduce, a parallel implementation of the Apriori Algorithm for frequent itemset mining.
+
+• Used clusters in AWS EMR to run the frequent itemset algorithm, and AWS S3 to store the data.
+
+• Analyzed clothing retailer data to find products that were frequently bought together.
+
+Source for the dataset: https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview 
+
 Code authors
 -----------
 Santosh Saranyan
+
 Nihal Desai
+
 Selen Toptas
 
 Installation
