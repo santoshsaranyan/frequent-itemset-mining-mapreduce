@@ -15,6 +15,8 @@ This project focuses on creating a parallel version of the Apriori algorithm for
 
 Source for the dataset: https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview 
 
+My contributions to this project include apriorigen.java (Code to generate candidate itemsets for a given iteration), dataprep.java (Code to preprocess the dataset for use with our algorithm), and help with coming up with the pseudo code for the whole algorithm.
+
 Code authors
 -----------
 Santosh Saranyan
