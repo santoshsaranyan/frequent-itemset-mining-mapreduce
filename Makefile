@@ -1,4 +1,3 @@
-# Makefile for Hadoop MapReduce WordCount demo project.
 
 # Customize these paths for your environment.
 # -----------------------------------------------------------
